@@ -1,2 +1,2 @@
-pub mod offers;
-pub use offers::*;
+pub mod offer;
+pub use offer::*;
